@@ -5,6 +5,9 @@ Installation of a single node OpenShift Cluster.
 ## Link
 
 * https://docs.openshift.com/container-platform/4.12/installing/installing_sno/install-sno-installing-sno.html
+* https://www.adminsub.net/ipv4-subnet-calculator/10.0.4.0/24
+* https://www.youtube.com/watch?v=syzwLwE3Xq4
+
 
 ## What do yo need?
 
